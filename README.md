@@ -20,5 +20,12 @@
 - [x] Bluetooth
 - [x] USB ports
 
+# BIOS setup:
+- Boot mode: UEFI
+- CSM: Disable
+- SATA mode: AHCI
+- Secure boot: Disable
+- Above 4G Decoding: Enable
+
 # SMBIOS:
 iMacPro1,1
