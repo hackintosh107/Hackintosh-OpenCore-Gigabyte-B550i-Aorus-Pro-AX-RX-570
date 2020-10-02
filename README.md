@@ -1,7 +1,7 @@
 # Hackintosh-Opencore-Gigabyte-B550i-Aorus-Pro-AX
 
 # Specifications:
-* CPU: Ryzen 5 3600
+* CPU: Ryzen 9 3900X
 * GPU: RX 570
 * Audio: Realtek® ALC1220-VB
 * Ethernet: Realtek® 2.5GbE LAN chip (2.5 Gbit/1 Gbit/100 Mbit)
