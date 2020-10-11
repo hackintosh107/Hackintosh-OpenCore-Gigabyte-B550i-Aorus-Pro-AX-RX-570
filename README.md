@@ -9,7 +9,7 @@
 * Bluetooth: Intel® Bluetooth 5.0
 
 # Version: 
-* Opencore: 0.6.2
+* OpenCore: 0.6.2
 
 # Working:
 - [x] AMD Radeon RX 570
